@@ -4,7 +4,7 @@ AI-powered Virtual Percussion with DataGloves
 ---
 
 
-![LionsMapperAI Logo](./assets/lionsmapperai_airdrums_v1.png)
+![LionsMapperAI Logo](/assets/lionsmapperai_airdrums_v1.png)
 
 **Developer:** `#asytrick`
 📧 **Contact:** [eusmool@gmail.com](mailto:eusmool@gmail.com)
@@ -140,4 +140,5 @@ get_play_box(_data_axis=(0,0), type="snare_drum")
 ---
 
 Would you like me to also **add a “usage flow” diagram (in ASCII or SVG)** showing how the functions connect (glove → axis → wav → play)? That could make the manual more visual and easy to understand for GitHub readers.
+
 
