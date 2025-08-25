@@ -139,6 +139,4 @@ get_play_box(_data_axis=(0,0), type="snare_drum")
 
 ---
 
-Would you like me to also **add a “usage flow” diagram (in ASCII or SVG)** showing how the functions connect (glove → axis → wav → play)? That could make the manual more visual and easy to understand for GitHub readers.
-
 
