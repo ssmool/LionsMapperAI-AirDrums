@@ -86,4 +86,4 @@ GitHub makes it possible to reduce the timeline of a software prototype from **2
 * Version: `8.0`
 * Stage: **Prototype / Research**
 * Focus: **DSP, AI-assisted percussion, functional extensions**
-* 
+
