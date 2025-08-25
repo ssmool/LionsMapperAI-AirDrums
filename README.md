@@ -14,7 +14,7 @@ AI-powered Virtual Percussion with DataGloves
 ## 🚀 Installation
 
 ```bash
-#pip install lionsmapper_airdrums==8.0 - for deploy - comming soon
+pip install lionsmapper-airdrums==8.0
 ```
 
 ---
